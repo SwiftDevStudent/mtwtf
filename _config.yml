@@ -7,7 +7,7 @@ ios_app_country                           : us                                  
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://mtwtf.app/                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Naftali Antebi                                
 your_link                                 :                      
-your_city                                 : Lakewood                                
+your_city                                 : New Jersey                                
 email_address                             : feedback@mtwtf.app
 facebook_username                         :                                           
 instagram_username                        : 
@@ -37,15 +37,15 @@ features                                  :
 
   - title                                 : Track Your Earnings
     description                           : With a clutter-free interface and numerous custimization options to suit your needs.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : dollar-sign
     
   - title                                 : Tailor Your Job profile
     description                           : Express your personality by adding a profile pic, and choosing a color theme.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : paintbrush
 
   - title                                 : Focus On Your Work
     description                           : With effortless time tracking, you can easily stay focused on the task at hand.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : pen-to-square
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
