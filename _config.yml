@@ -45,7 +45,7 @@ features                                  :
 
   - title                                 : Focus On Your Work
     description                           : With effortless time tracking, you can easily stay focused on the task at hand.
-    fontawesome_icon_name                 : pen-to-square
+    fontawesome_icon_name                 : edit
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
