@@ -41,7 +41,7 @@ features                                  :
     
   - title                                 : Tailor Your Job profile
     description                           : Express your personality by adding a profile pic, and choosing a color theme.
-    fontawesome_icon_name                 : paintbrush
+    fontawesome_icon_name                 : paint-brush
 
   - title                                 : Focus On Your Work
     description                           : With effortless time tracking, you can easily stay focused on the task at hand.
